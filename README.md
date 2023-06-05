@@ -7,3 +7,5 @@ Try it out and enjoy while learning some geography!
 
 
 An upcoming version will include map snapshots!
+
+Author: Miguel Ceballos
